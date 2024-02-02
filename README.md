@@ -9,7 +9,7 @@ The project also includes a machine learning module powered by Weka. This module
 * Customize the configurations in **ConnectionManager.java** in src/main/java/system
 * Run **ScrapAndSaveToDB.java** 
 > [!WARNING]
-> (`#FF0000` in line 44 it's better to keep the gap low, something like 2 -> 5. Because Emploi has is very sensitive, it blocks anyone who trying to scrap offers for few hours to about 3 days. )
+> in line 44 it's better to keep the gap low, something like 2 -> 5. Because Emploi has is very sensitive, it blocks anyone who trying to scrap offers for few hours to about 3 days.
 ### To an Excel File:
 * Run **ScrapAndSaveToExcel.java**
 
