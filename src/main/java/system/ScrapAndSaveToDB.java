@@ -40,8 +40,8 @@ public class ScrapAndSaveToDB {
         List<String> urls = new ArrayList<>();
         
 
-        // Adding numbers from 1 to 30 to the list
-        for (int i = 20; i <= 29; i++) {
+        // This is for the pages, better to keep the gap low, because Emploi.ma is too sensitive
+        for (int i = 2; i <= 29; i++) {
             urls.add(String.valueOf(i));
         }
    
