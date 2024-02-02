@@ -22,4 +22,4 @@ After Training the module can predict the Experience Level of each offer.
 - **J48**: *anotherML.java*
 
 > [!NOTE]
-> This repository is a part of a bigger project, built in JAVA, with user interface, and over 3 recurting websites that got scraped. you can the project in this link: [Scrap Job Offers and ML](https://github.com/Mouadspace/job-scraper)
+> This repository is part of a larger project built in JAVA, featuring a user interface and integration with over three recruiting websites for scraping job offers. For more information and to explore the complete project, visit the [Scrap Job Offers and ML](https://github.com/Mouadspace/job-scraper) repository.
